@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": emeraldcraft-Aksh.aternos.me
+    "ip": 'emeraldcraft-Aksh.aternos.me'
     "port": 38084,
     "version": "",
     "try-creative": false
